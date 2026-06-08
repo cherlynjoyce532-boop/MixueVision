@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia.xml, https://www.open-epg.com/files/indonesia.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
 
 
 ##########################MixueMedia##########################
@@ -179,7 +179,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=18162&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9714&type=drm
 https://ratu77.adptv.workers.dev/index.mpd?id=9714&type=dash
 
-#EXTINF:-1 tvg-id="UNIQUES.HD.id" group-title="National TV" ch-number="40" tvg-logo="https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="National TV" ch-number="40" tvg-logo="https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=10975&type=drm
@@ -197,7 +197,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=6898&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9713&type=drm
 https://ratu77.adptv.workers.dev/index.mpd?id=9713&type=dash
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="National TV" ch-number="43" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg",Magna Channel HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="National TV" ch-number="43" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg",Magna Channel HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -235,7 +235,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars.HD.id" group-title="Sports" ch-number="121" tvg-logo="https://beetv.my.id/logo/tvri-sport.png",TVRI Sport HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Sports" ch-number="121" tvg-logo="https://beetv.my.id/logo/tvri-sport.png",TVRI Sport HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
