@@ -203,13 +203,11 @@ https://ratu77.adptv.workers.dev/index.mpd?id=9713&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 
-#EXTINF:-1 tvg-id="HIts.Movie.id" group-title="Movies" ch-number="44" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png",HITS Movies HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Kids" ch-number="57" tvg-logo="https://beetv.my.id/logo/vtv.png",VTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
 ###EXTINF:-1 tvg-id="Cinema.World.id" group-title="Movies" ch-number="45" tvg-logo="https://www.visionplus.id/images/repository/611/611-LOGO-m.png",CinemaWorld HD
 ###EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
