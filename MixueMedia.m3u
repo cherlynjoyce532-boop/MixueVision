@@ -249,7 +249,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=7464&type=drm
 https://ratu77.adptv.workers.dev/index.mpd?id=7464&type=dash
 
-#EXTINF:-1 tvg-id="AlQuranAlKareem.id" group-title="Religion" ch-number="171" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png",Al Quran Al Kareem
+#EXTINF:-1 tvg-id="AlQuranAlKareem.id" group-title="Religion" ch-number="171" tvg-logo="https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.pngg",Al Quran Al Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6852&type=drm
